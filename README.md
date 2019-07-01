@@ -13,6 +13,7 @@ The main goal is to create a visualization for the maze solver using a bsf algor
 `pip install pygame` or `pip3 install pygame`
 
 ## EXECUTING
-- Enter the folder thath contains the code
-- `python bsf_solver.py` **or** `python3 bfs_solver.py`
+- Enter the repository folder
+- Enter **src/** folder
+- `python bfs_solver.py` **or** `python3 bfs_solver.py`
 - Wait and see the magic!
